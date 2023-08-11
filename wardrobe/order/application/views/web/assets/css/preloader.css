@@ -1,0 +1,39 @@
+#page100 {
+    height: 100vh;
+    width: 100%;
+    display: grid;
+    place-content: center;
+    position: fixed;
+    background: #fff;
+    z-index: 999;
+    top: 0;
+}
+
+.loader {
+    border: 3px solid #f3f3f3;
+    border-radius: 50%;
+    border-top: 3px solid #d61a0c;
+    border-bottom: 3px solid #d61a0c;
+    width: 100px;
+    height: 100px;
+    -webkit-animation: spin 2s linear infinite;
+    animation: spin 1s linear infinite;
+}
+
+@-webkit-keyframes spin {
+    0% {
+        -webkit-transform: rotate(0deg);
+    }
+    100% {
+        -webkit-transform: rotate(360deg);
+    }
+}
+
+@keyframes spin {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}

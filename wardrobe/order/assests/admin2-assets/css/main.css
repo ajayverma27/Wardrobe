@@ -1,0 +1,122 @@
+:root{
+    --primary-p-400: #F1555D;
+    --neutral-n-50: #F8FAFC;
+    --neutral-n-200: #E2E8F0;
+    --neutral-n-600: #475569;
+    --neutral-n-900: #0F172A;
+    --swatch-1-s-700: #6D28D9;
+    --swatch-1-s-50: #F5F3FF;
+    --swatch-2-s-700: #A21CAF;
+    --swatch-2-s-50: #FDF4FF;
+    --swatch-4-s-700: #B45309;
+    --swatch-4-s-50: #ECFDF5;
+    --swatch-3-s-700: #047857;
+    --swatch-3-s-700: #047857;
+    --neutral-n-100: #F1F5F9;
+}
+.cstm_card{
+    border-radius: 8px;
+    border: 1px solid var(--neutral-n-200, #E2E8F0);
+    background: var(--neutral-n-50, #F8FAFC);
+}
+.cstm_primary{
+    color: var(--primary-p-400);
+}
+.cstm_neutral{
+    color: var(--neutral-n-600);
+}
+.cstm_primary_btn{
+    color: #fff;
+    background-color: var(--primary-p-400);
+}
+.head_txt{
+    color: var(--neutral-n-900, #0F172A);
+    text-align: center;
+    font-family: Inter;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 48px;
+    letter-spacing: -0.72px;
+}
+.supporting_text{
+    text-align: center;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+.txt_underline{
+    text-decoration-line: underline;
+}
+.logo_denir{
+    width: 138px;
+    height: 36px;
+}
+.bdg_draft{
+    padding: 4px 8px;
+    border-radius: 50px;
+    border: 1px solid var(--swatch-1-s-700);
+    background: var(--swatch-1-s-50);
+    color: var(--swatch-1-s-700);
+    text-align: center;
+    font-family: Inter;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16px;
+    white-space: nowrap;
+}
+.bdg_production{
+    padding: 4px 8px;
+    border-radius: 50px;
+    border: 1px solid var(--swatch-2-s-700);
+    background: var(--swatch-2-s-50);
+    color: var(--swatch-2-s-700);
+    text-align: center;
+    font-family: Inter;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16px;
+    white-space: nowrap;
+}
+.bdg_priced{
+    padding: 4px 8px;
+    border-radius: 50px;
+    border: 1px solid var(--swatch-4-s-700);
+    background: #FFFBEB;
+    color: var(--swatch-4-s-700);
+    text-align: center;
+    font-family: Inter;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16px;
+    white-space: nowrap;
+}
+.bdg_completed{
+    padding: 4px 8px;
+    border-radius: 50px;
+    border: 1px solid var(--swatch-3-s-700);
+    background: var(--swatch-4-s-50);
+    color: var(--swatch-3-s-700);
+    text-align: center;
+    font-family: Inter;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16px;
+    white-space: nowrap;
+}
+.menu-link:hover,
+.menu-link:hover .menu-title{
+    background-color: #FDE9EA !important;
+    color: #F1555D !important;
+}
+.menu-link.active,
+.menu-link.active .menu-title{
+    background-color: #FDE9EA !important;
+    color: #F1555D !important;
+}

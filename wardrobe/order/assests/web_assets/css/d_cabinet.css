@@ -1,0 +1,436 @@
+@media (max-width:767px) {
+    .progress-bar .step .bullet span{
+        font-size: 9px;
+        overflow: hidden;
+    }
+    
+    div.floorPlan1 p.radioOption-Item{
+        width: 43%;
+    }
+    .cabi_d_btn_top{
+        margin-top: 30px;
+        display: flex;
+        justify-content: center;
+        align-items:center;
+        flex-wrap: warp;
+    }
+    .cabi_d_btn_top .btn_chngg{
+        margin-right: 4px;
+        margin-top: 3px;
+    }
+    .cabi_d_btn_top .tab9_btn{
+        margin-bottom: 0px !important;
+    }
+    .page.slide-page{
+        margin-top: 25px;
+      
+    }
+    .cabinet_main_img{
+        margin-top: 25px;
+    }
+    .cabi_cust_width {
+        width: 80px !important;
+    }
+    .cab_tab_4 {
+        width: 100px !important;
+    }
+    .plus_ico2{
+      top: 10vh;
+    }
+    .plus_ico4{
+        left: 40px;
+    } 
+    .plus_ico7{
+        top: 10vh;
+    } 
+    .plus_ico9{
+        right: 35px;
+    }
+    .plus_ico5{
+        right: 35px;
+    }
+    .plus_ico {
+        left: 40px;
+    }
+    .form-outer form .page .field{
+        width: 70%;
+        margin: 40px auto 45px 0px;
+    }
+    .sirkkkkka{
+        text-align: left !important;
+    }
+    
+    .tabDiv2 .radio_container label{
+      font-size: 12px;
+    }
+    .tab9_btn{
+        width: 170px;
+    }
+    
+    /* Wardrobe Responsive Css (Nitin)*/
+    .newly-added-tab .setBoxImag{
+        margin: 8px;
+    }
+    
+    .mob-margin {
+        margin-top: 12px;
+    }
+    
+    .cust_width_cuboid{
+        height: 170px;
+    }
+    
+    .cuboid{
+        width: auto;
+        height: 170px;
+    }
+    
+    .cuboid-rt:before{
+        height: 173px;
+    }
+    
+    .cuboid-rt:after{
+        width: 274px;
+        right: -14px;
+    }
+    
+    .fs-x{
+        font-size:10px;
+    }
+    
+    .center-content .abs_imggg {
+        width: 100px;
+        height: 100px;
+    }
+    
+    .form-check .label-small{
+        font-size:0.65rem !important;
+    }
+    
+    .spoje-text{
+        font-size: 0.85rem !important;
+    }
+    
+    .appended_push {
+        font-size: 14px;
+    }
+    
+    .bd_left_right{
+        border: none;
+    }
+
+    .cabinet_headingText {
+        font-size: 1rem !important;
+        margin-top: 10px;
+    }
+
+    /* ==== CABINET CSS NITIN (16/3/23) */
+    .tab_number_three .cuboid-rt:after{
+        width: 275px !important;
+    }
+
+    .table-responsive-mobile{
+        display: block;
+        width: 100%;
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+    }
+
+    .tables-selection-list {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+        gap: 10px;
+    }
+
+    .tables-section-tab5 {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+        gap: 10px;
+    }
+
+    .tab6-inside-div .reduce_box {
+        width: 80px;
+    }
+
+    .tabb__8 .finalHedding {
+        font-size: 18px;
+    }
+
+    .price-offer-btn-show {
+        font-size: 11px;
+        line-height: 1.3;
+    }
+
+    .tab_10_text_end{
+        font-size: 13px;
+        line-height: 14px;
+    }
+    .mobile-img-final img {
+        margin-top: 1.5rem !important;
+    }
+
+    .center-content .cuss_img{
+        width: 100px;
+        height: 100px;
+    }
+
+    .skrinky_mod_hw #skrinky_Modal {
+        font-size: 0.9rem !important;
+    }
+    .gap11 .calc_panel {
+        padding: 5px;
+    }
+
+    .calc_panel{
+    padding: 0px !important;
+    }
+
+    /* ==== CABINET CSS NITIN (13/4/23) */
+
+    .newly-added-tab .right-card {
+        height: auto;
+        width: 100%;
+    }
+
+    .newly-added-tab .small_card{
+        height: auto;
+        width: 100%;
+    }
+
+    .newly-added-tab .spoja_img_f.cus_img_increase {
+        width: auto;
+        height: 100px;
+    }
+
+    .newly-added-tab .card_one, .newly-added-tab .card_two{
+        width:100%
+    }
+
+    .newly-added-tab .cuss_img_small {
+        width: auto;
+        height: 100px;
+    }
+
+    .tabb__8 .tab9_btn {
+        width: 100%;
+    }
+
+    .hotovo__btn{
+        width: 100%;
+    } 
+
+    .modal-header{
+        flex-wrap: wrap;
+        padding: 0px
+    }
+
+    .search-section{
+        margin-top: 10px;
+    }
+
+    .spoje_card{
+        width:100%;
+        height: auto;
+    }
+
+    .spoje_img{
+        width: 150px;
+        height: 150px;
+    }
+
+    .spoje_title-text{
+        font-size: 21px;
+        text-align: center;
+    }
+
+    .spoje_card .font-18px{
+        font-size: 21px
+    }
+
+    .tables-selection-list .mr-20{
+        margin-right: 0px !important
+    }
+
+    /* Making Cabinet Tables Responsive */
+
+    .create_table, .verti-relative, .tab-7-table, .active_t6_next, #pushing_tab5, .three-push-systems, .mke-tble-resp{
+        display: block;
+        overflow-x: auto;
+    }
+
+
+
+}
+
+@media (max-width:667px) {
+    .plus_ico2{
+      top: 13vh;
+    }
+    .plus_ico7{
+      top: 13vh;
+    } 
+    .mob_h200{
+        height:200px;
+    } 
+}
+
+.form-outer form .page .field{
+  margin-top: 10px;
+}
+
+
+@media (min-width:768px) and (max-width:1025px) {
+    .cabi_d_btn_top{
+     max-width: 410px !important;
+     display: flex;
+     gap: 14px;
+     margin-top: 10px;
+    }
+    .radio-with-Icon{
+     justify-content: center;
+    }
+    .cabi_cust_width {
+     width: 100px !important;
+    }
+ }
+ 
+ .delet{
+     left:25px;
+ }
+.Push_systém{
+    width: 138px;
+    height: 36px;
+    background: #FFFFFF;
+    border: 2px solid #FF0000;
+    box-shadow: 0px 2px 5px rgba(255, 0, 0, 0.2);
+    border-radius: 5px;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 12px;
+    /* identical to box height */
+    /*display: flex;*/
+    /*align-items: center;*/
+    /*text-align: center;*/
+    color: #FF0000;
+}
+.Otvorí_sa_po_stlačení{
+    font-weight: 300;
+    font-size: 8px;
+    line-height: 10px;
+    /* identical to box height */
+    
+    /*display: flex;*/
+    /*align-items: center;*/
+    /*text-align: center;*/
+    
+    color: #FF0000;
+}
+
+/*push system*/
+.menu-item-toggle {
+  left: 100px;
+}
+.step-1{
+    text-align: center;
+    width: 100%;
+    position: relative;
+    background: #ff0000;
+    color:#fff;
+    padding-top: 3px;
+    font-weight: 600;
+    margin-top: 1px;
+}
+
+.V_hidden{
+    visibility: hidden;
+}
+
+.plus_ico1__2_door.cabinet_handel{
+    left: 20px !important;
+}
+.plus_ico2__2_door.cabinet_handel{
+    left: 20px !important;
+}
+.plus_ico3__2_door.cabinet_handel{
+    left: 20px !important;
+}
+
+.plus_ico6_2_door.cabinet_handel{
+    right: 20px !important;
+}
+.plus_ico7_2_door.cabinet_handel{
+    right: 20px !important;
+}
+.plus_ico8_2_door.cabinet_handel{
+    right: 20px !important;
+}
+
+.plus_ico.cabinet_handel{
+    left: 38px !important;
+}
+.plus_ico1.cabinet_handel{
+    right: 7px !important;
+}
+.plus_ico2.cabinet_handel{
+    right: 7px !important;
+}
+.plus_ico3.cabinet_handel{
+    right: 7px !important;
+}
+.plus_ico4.cabinet_handel{
+    left: 38px !important;
+}
+
+.plus_ico5.cabinet_handel{
+    right: 38px !important;
+}
+.plus_ico6.cabinet_handel{
+    left: 7px !important;
+}
+.plus_ico7.cabinet_handel{
+    left: 7px !important;
+}
+.plus_ico8.cabinet_handel{
+    left: 7px !important;
+}
+.plus_ico9.cabinet_handel{
+    right: 38px !important;
+}
+
+.plus_ico_drawer.cabinet_handel{
+    left: 40px !important;
+}
+.plus_ico_drawer_1.cabinet_handel{
+    left: 40px !important;
+}
+.plus_ico_drawer_2.cabinet_handel{
+    left: 40px !important;
+    z-index: 1;
+}
+table#check-radio-tbl-5 {
+    width: 100%;
+}
+/* new 15-03-2023 */
+.table-inner-section{
+    background-image: url(https://wardrobe.zarfrestauracia.sk/assests/web_assets/img_web/cabinet_section_interior.png);
+    background-size: 100% 105%;
+    background-color: #ffffff;
+}
+/* 09/06/2023 */
+.cabinet_first_section1{
+    background-image: url(https://wardrobe.zarfrestauracia.sk/assests/web_assets/img_web/cabinet_first_section1.png);
+    background-size: 100% 100%;
+    background-color: #ffffff;
+}
+.calc_panel {
+    background: #fff9b4;
+    box-shadow: 3px 7px 10px -4px #959595;
+    padding: 10px;
+}
+.tabtab td {
+    border: 1px solid black;
+}
